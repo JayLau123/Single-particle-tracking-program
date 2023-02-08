@@ -22,3 +22,5 @@ For some mathematic functions used in SAD, please see the link below:
 https://hep-project-sad.web.cern.ch/SADHelp/SADHelp.html#L2
 
 P.S. The program is a single-particle tracking program, which gets the coordinates of a single particle, but it is easy to change it to multi-particle tracking.
+
+Useful public learning resources for machine learning applications in high energy physics: https://github.com/iml-wg/HEP-ML-Resources
