@@ -24,3 +24,24 @@ https://hep-project-sad.web.cern.ch/SADHelp/SADHelp.html#L2
 P.S. The program is a single-particle tracking program, which gets the coordinates of a single particle, but it is easy to change it to multi-particle tracking.
 
 Useful public learning resources for machine learning applications in high energy physics: https://github.com/iml-wg/HEP-ML-Resources
+
+### Other packages for ML in MATLAB
+
+
+Regression: train regression model to make predictions using supervised ML 
+
+Classification: train models to classify data using supervised ML
+
+Clustering: solve clustering problem using self-organizing masp(SOM)
+
+Fitting: solve the problem using two-layer feed-forward networks
+
+Pattern recognition: solve the problem using two-layer feed-forward networks
+
+Time series: solve nonlinear time series problem using dynamic neural networks
+
+
+
+
+
+
